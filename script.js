@@ -1,3 +1,6 @@
+//hide output div
+document.querySelector('#output').style.visibility = 'hidden';
+
 const lbsInput = document.querySelector('#lbsInput');
 
 lbsInput.addEventListener('input', enterWeight);
