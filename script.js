@@ -1,0 +1,1 @@
+const lbsInput = document.querySelector('#lbsInput');
